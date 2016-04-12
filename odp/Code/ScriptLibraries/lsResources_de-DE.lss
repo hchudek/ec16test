@@ -1,0 +1,31 @@
+'++LotusScript Development Environment:2:5:(Options):0:74
+Option Public
+Option Declare
+
+'strings for exception handling UI
+Const ERR_CAPTION				= "Notes-Fehler in '%s1':"
+Const ERR_FORMAT_LOCATION		= "%s1 (#%s2) in:"
+Const ERR_FORMAT_MODULE			= "%s1: %s2 (line %s3)"
+Const ERR_FORMAT_CLASS			= "%s1: %s2::%s3 (line %s4)"
+Const ERR_ADDITIONAL_INFO		= "Zusätzliche Informationen: %s1"
+
+Const ERR_VIEW_NOT_FOUND			= "Ansicht %s1 konnte nicht geöffnet werden. Ansicht wurde nicht gefunden."
+
+Const UPGRADE_PROGRESS			= "%s1 von %s2 Dokumente werden aktualisiert. Bitte warten..."
+Const UPGRADE_COMPLETED			= "Aktualisierung abgeschlossen."
+Const UPGRADE_ALREADY_DONE		= "Alle Dokumente sind bereits auf dem neuesten Stand."
+Const UPGRADE_NOT_AGAIN			= "Hinweis: Sie brauchen diesen Agenten nicht erneut auszuführen."
+Const ABSTRACT_ELLIPSIS			= "%s1 ..."
+Const NEED_DESIGNER_ACCESS		= "Sie müssen über Entwicklerrechte oder höher in der ACL verfügen, um diese Aktualisierung durchführen zu können."
+
+'used in "($Subscription)" and "($Replication)" forms
+Const COMPILE_SUCCESS_TITLE		= "Erfolgreich kompiliert"
+Const COMPILE_SUCCESS_BODY		= "Keine Syntaxfehler. Die Formel wurde erfolgreich kompiliert."
+Const COMPILE_FAILURE_TITLE		= "Syntaxfehler"
+Const COMPILE_FAILURE_BODY		= "Die Formel enthält mindestens einen Syntaxfehler. Sie wurde nicht kompiliert."
+Const COMPILE_FAILURE_SAVE_BODY	= "Die Formel enthält mindestens einen Syntaxfehler. Das Dokument konnte nicht gespeichert werden."
+
+'++LotusScript Development Environment:2:5:(Forward):0:1
+
+'++LotusScript Development Environment:2:5:(Declarations):0:2
+

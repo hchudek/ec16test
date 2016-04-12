@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="21e" sequence="52" unid="7EDBEEF45B71D28B482575120027F3F2">
+<created><datetime>20081201T151623,54+08</datetime></created>
+<modified><datetime dst="true">20131015T030030,50-04</datetime></modified>
+<revised><datetime dst="true">20131015T030030,49-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030029,54-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134707,82+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+<item name="$FileModDT" sign="true"><datetime dst="true">20080604T141300,00+01</datetime></item>
+<item name="$ImageNames" sign="true"><text>xpTagSliderHandle.gif</text></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+<item name="$TITLE"><text>xpTagSliderHandle.gif</text></item>
+
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20121117T103228,43+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>A5A1555D0D66FDF68525749800322BF6</text><text>de-DE</text></textlist></item></note>

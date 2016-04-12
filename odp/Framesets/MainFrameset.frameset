@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.4'
+ replicaid='48257C05001FC752'>
+<noteinfo noteid='3be' unid='2E55CEE02CBD9C9748257042002957F5' sequence='38'>
+<created><datetime>20050718T153134,93+08</datetime></created>
+<modified><datetime dst='true'>20131015T030031,92-04</datetime></modified>
+<revised><datetime dst='true'>20131015T030031,91-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20131015T030029,98-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134709,52+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name='$TITLE' sign='true'><text>MainFrameset|MainFrameset</text></item>
+<item name='$Flags'><text>#4Cw</text></item>
+<item name='$DesignerVersion' sign='true'><text>7</text></item>
+<item name='$FrameSet' sign='true'>
+<rawitemdata type='1'>
+7/8YAAIACAAAAAAAAAAAAAAAAAAAAAAA8P8+AEQAAAABAAAAAAABAAEAAAAAAAUAAAAAAAUAAAAA
+AAEAAgAAAAAAAQAAAAAAAAADAAEAAQDXAAMAAQDw/0IAAAAAAAEAAAAAAAEAAQAAAAAABQAAAAAA
+BQAAAAAAAwABAAAAAAAFAAAAAAAAAAEANgADAAEAAQARAAMAAQDx/zQAFgAAAABAAQACAAMAAQAA
+AAAAAAAAAAAAAQAAAAAAAAABAP///yABAAAKAQAAAAAg9v8vAAAAAAADAAMADQAAAAAAAAAAAAAA
+AAAAAAAAAAAAAFRlbXBsYXRlIE5hbWVY8f9LABAAAAAAQAEAAgABAAEAAAAAAA4AAAAJAAEAAAAA
+AAAATm90ZXNOYXZpZ2F0b3JOb3Rlc1ZpZXcBAP///yABAAAKAQAAAAAgWPb/LgAAAAAAAwAHAAwA
+AAAAAAAAAAAAAAAAAAAAAAAAAABPdXRsaW5lIFBhZ2Xx/zwAFgAAAABAAQACAAEAAQAAAAAACAAA
+AAAAAQAAAAAAAABTd2l0Y2hlcgEA////IAEAAAoBAAAAACD2/y0AAAAAAAMABwALAAAAAAAAAAAA
+AAAAAAAAAAAAAAAARGIgTG9jYXRpb25Y8P8+AAAAAAABAAAAAAABAAEAAAAAAAUAAAAAAAUAAAAA
+AAIAAQAAAAAABQAAAAAAAAADAAEAAgAAAAMAAQDx/zQAAAAAAABAAQADAAEAAQAAAAAAAAAAAAAA
+AQAAAAAAAAABAP///yABAAAKAQAAAAAg9v8sAAAAAAADAAYACgAAAAAAAAAAAAAAAAAAAAAAAAAA
+AFZpZXcgRnJhbWXx/0AAAAAAAABAAQADAAEAAQAAAAAADAAAAAAAAQAAAAAAAABOb3Rlc1ByZXZp
+ZXcBAP///yABAAAKAQAAAAAg
+</rawitemdata></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$LANGUAGE' sign='true'><text>de</text></item>
+<item name='$LastBuildTime' sign='true'><datetime>20081201T151624,29+08</datetime></item>
+<item name='$BabelInfo' sign='true'><textlist><text>5A5111854D3EA8C4882569ED000E0612</text><text
+>de-DE</text></textlist></item></note>
+

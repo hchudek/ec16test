@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="416" sequence="37" unid="2B1154830BDEAB1A8825771C000440E0">
+<created><datetime dst="true">20100506T174627,52-07</datetime></created>
+<modified><datetime dst="true">20131015T030032,28-04</datetime></modified>
+<revised><datetime dst="true">20131015T030032,27-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030030,08-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134709,96+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+<item name="$FileModDT" sign="true"><datetime dst="true">20090904T032537,85-04</datetime></item>
+<item name="$ImageNames" sign="true"><text>outl_inbox.gif</text></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+<item name="$TITLE"><text>outl_inbox.gif</text></item>
+
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20121117T103229,04+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>DFC7598D8E4B33BA80257694003BD624</text><text>de-DE</text></textlist></item></note>

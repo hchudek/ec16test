@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.4'
+ replicaid='48257C05001FC752'>
+<noteinfo noteid='26e' unid='6D0CEB84A6BA88874825704200295547' sequence='40'>
+<created><datetime>20050718T153128,07+08</datetime></created>
+<modified><datetime dst='true'>20131015T030030,90-04</datetime></modified>
+<revised><datetime dst='true'>20131015T030030,89-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20131015T030029,62-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134708,22+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name='$Fonts'>
+<rawitemdata type='1'>
+i/8oAAEABSZBcmlhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$HTMLDocumentStyles' summary='true' sign='true'>
+<rawitemdata type='1'>
+0ggBAAAA/wDSCAEA/wAAANIIAQCAAIAA
+</rawitemdata></item>
+<item name='$INFO' sign='true'>
+<rawitemdata type='1'>
+hhgBAIAAAAAAAAAAAQABAP///wAAAAAA
+</rawitemdata></item>
+<item name='$Flags'><text>C34WQ</text></item>
+<item name='$DesignerVersion' sign='true'><text>7</text></item>
+<item name='$TITLE'><textlist><text>wOutline Page</text><text>wOutline Page</text></textlist></item>
+<item name='$BackgroundR5' sign='true'>
+<rawitemdata type='1'>
+3QYBAJkAmQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAH0AHAAAAAEAEwEgAwAAAAAAAAAAAAAA
+AAAAAAD2/zEAAAAAAAMAEwAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAT3V0bGluZVBhZ2UuZ2lmWN4G
+AQCZAA==
+</rawitemdata></item>
+<item name='$HTMLCode' sign='true'>
+<rawitemdata type='1'>
+X/8QAAIADwAHAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$HTMLHeadTag' sign='true'><formula>"&lt;STYLE TYPE=\"text/css\"&gt; 	A:HOVER {BACKGROUND-COLOR: #E3E3E3} 	.TXTOUTLINE {PADDING-TOP: 1em; 		PADDING-BOTTOM: 1em} 	.VTITLE {TEXT-TRANSFORM: UPPERCASE;  		FONT-WEIGHT: bold; 		BACKGROUND-COLOR: #F1F1F1} 	.VRESET {TEXT-TRANSFORM: CAPITALIZE;  		BACKGROUND-COLOR: #F1F1F1} &lt;/STYLE&gt;"</formula></item>
+<item name='$LANGUAGE' sign='true'><text>de</text></item>
+<item name='$LastBuildTime' sign='true'><datetime>20081201T151617,63+08</datetime></item>
+<item name='$BabelInfo' sign='true'><textlist><text>6F80F8CE3B07DF9885256E89004DAA4D</text><text
+>de-DE</text></textlist></item>
+<item name='$$ScriptName' summary='false' sign='true'><text>wOutline Page</text></item>
+<item name='$BODY' sign='true'>
+<rawitemdata type='1'>
+gQKC/1oAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJSHAAAAAAAAAAAAAAAAAQAAAAQAAACDBAEAzP8IAAAAAACF/x8AAQAACDxT
+VFlMRSBUWVBFPSJ0ZXh0L2NzcyI+WIECgv9aAAIABAAAAAAAAACgBQAAoAUIANACoAVwCEALEA7g
+ELATgBYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAACUhKAFCgCgBQoAAABkAAEAAAAEAAAA
+gwQCAIX/EAABAAAIIAlCT0RZIHuBAoMEAgCF/yIAAQAACAkJZm9udC1mYW1pbHk6IHNhbnMtc2Vy
+aWY7gQKDBAIAhf8bAAEAAAgJCWZvbnQtc2l6ZTogIDkgcHQ7WIECgwQCAIX/FQABAAAICSAgICAg
+ICAgICAgfViBAoMEAgCF/xAAAQAACDwvU1RZTEU+gQKDBAIAhf8fAAEAAAg8RElWIENMQVNTPVRY
+VE9VVExJTkU+AFjN/wgAAAAAAIECgv9aAAMAAAAAAAAAAAA4BAAAOAQAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAACUhDgEDwA4BA8AAAAAAAEAAAAEAAAAgwQD
+AIX/CAABAAAK3QYAAK3/rf8YABsACAAAAAwARGlzY091dGxpbmUA6v8+ABsACUQAAGQA4BABAAAJ
+AAAAAAAAAAABAAAKAQAACQAABQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAADs/yIBIA4CAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAASAAgAQAACwAJAAEAAAoBAAAKAQAACgEAAAoBAAAK
+AQAACgAAAAAAAAAAsAFAAgAAAwADAAUA////AAUA////AAUA////AAUA////AAUA////AAEAutXF
+AAUA7+/vAAUA////AAEAutXFAAUA////AAEAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAMA
+AwAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAABAAAAAAABAAAAAAABAAAAAAABAAAAAAABAAAA/wAB
+AAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEaXNjT3V0bGluZU5vdGVzVmlld64C3gYAAK4A
+zP8IAAAAAACF/wgAAQAACIECgv9aAAQAAAAAAAAAAACgBQAAoAUAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAACUhKAFDwCgBQ8AAAAAAAEAAAAEAAAAgwQEAIX/
+DwABAAAIPC9ESVY+AFjN/wgAAAAAAA==
+</rawitemdata></item></note>
+

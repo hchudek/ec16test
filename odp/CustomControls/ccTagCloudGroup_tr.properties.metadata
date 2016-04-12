@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1c36" sequence="3" unid="D2222B7C70F0922848257C05000E2C0D">
+<created><datetime>20131015T103447,81+08</datetime></created>
+<modified><datetime dst="true">20131015T030054,08-04</datetime></modified>
+<revised><datetime dst="true">20131015T030054,07-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030035,87-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134730,68+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$TITLE"><text>ccTagCloudGroup_tr.properties</text></item>
+<item name="$Flags"><text>gC~4;2</text></item>
+<item name="$FileNames" sign="true"><text>ccTagCloudGroup_tr.properties</text></item>
+
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20131015T103447,81+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>9B611DF0B91F097480257BDE00010889</text><text>de-DE</text></textlist></item>
+</note>

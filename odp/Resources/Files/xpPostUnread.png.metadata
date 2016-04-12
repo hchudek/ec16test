@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1d86" sequence="3" unid="73103B9FD2AD0F2248257C05000E2C64">
+<created><datetime>20131015T103448,68+08</datetime></created>
+<modified><datetime dst="true">20131015T030055,00-04</datetime></modified>
+<revised><datetime dst="true">20131015T030054,99-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030036,06-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134732,36+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$TITLE"><text>xpPostUnread.png</text></item>
+<item name="$Flags"><text>345CgQ</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$MimeType" sign="true"><text>image/png</text></item>
+<item name="$FileModDT" sign="true"><datetime dst="true">20130906T135057,08+01</datetime></item>
+<item name="$FileNames" sign="true"><text>xpPostUnread.png</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20131015T103448,68+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>0BEC0F35BF7E284580257BDE004746DE</text><text>de-DE</text></textlist></item>
+</note>

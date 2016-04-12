@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="filter" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="452" sequence="16" unid="000B0245E75D419048257AB70034FE78">
+<created><datetime>20121115T173850,16+08</datetime></created>
+<modified><datetime dst="true">20131015T030032,56-04</datetime></modified>
+<revised><datetime dst="true">20131015T030032,55-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030030,15-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134710,26+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$Flags"><text>.5834Q</text></item>
+<item name="$PublicAccess" sign="true"><text>1</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+<item name="$TITLE" sign="true"><text>xpAuthorProfile</text></item>
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20121115T173850,20+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>FCC4D295ADD8500980257917004BF462</text><text>de-DE</text></textlist></item></note>

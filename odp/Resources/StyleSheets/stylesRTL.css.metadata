@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1bea" sequence="5" unid="8D8033863F66085748257BC2003A531C">
+<created><datetime>20130809T183703,64+08</datetime></created>
+<modified><datetime dst="true">20131015T030053,70-04</datetime></modified>
+<revised><datetime dst="true">20131015T030053,69-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030035,81-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134730,30+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$TITLE"><text>stylesRTL.css</text></item>
+<item name="$MimeType" sign="true"><text>text/css</text></item>
+<item name="$Flags"><text>34C=Q</text></item>
+<item name="$MimeCharSet" sign="true"><text>UTF-8</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+<item name="$FileNames" sign="true"><text>stylesRTL.css</text></item>
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20130809T183702,38+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>0F9BE7E20A7EB9BC80257BB90057B388P</text><text>de-DE</text></textlist></item>
+</note>

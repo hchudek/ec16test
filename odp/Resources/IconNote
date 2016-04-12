@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
+ maintenanceversion='1.4' replicaid='48257C05001FC752'>
+<noteinfo noteid='3b2' unid='A01DCCA9D4E41E6C48257042002954CA' sequence='114'>
+<created><datetime>20050718T153126,82+08</datetime></created>
+<modified><datetime dst='true'>20131015T030029,18-04</datetime></modified>
+<revised><datetime dst='true'>20131015T030029,17-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20131015T030029,17-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134709,46+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst='true'>20120918T121601,34-04</datetime><datetime
+ dst='true'>20120918T121601,38-04</datetime><datetime dst='true'>20120918T121601,40-04</datetime><datetime
+ dst='true'>20121027T103900,89-04</datetime><datetime dst='true'>20121027T103900,93-04</datetime><datetime
+ dst='true'>20121027T103900,95-04</datetime><datetime dst='true'>20121027T104034,68-04</datetime><datetime
+>20121031T115851,26+00</datetime><datetime>20121031T120046,06+00</datetime></revisions>
+<item name='$TemplateModTime' sign='true'><datetime dst='true'>19980909T102333,41-04</datetime></item>
+<item name='$TemplateServerName' sign='true'><text>CN=Debbie Branco/O=Iris</text></item>
+<item name='$TemplateFileName' sign='true'><text>d:\data\discsw50.ntf</text></item>
+<item name='$DefaultWebFrameset' sign='true'><text>MainFrameset</text></item>
+<item name='$CSSExpires' sign='true'><text>365</text></item>
+<item name='$ImageExpires' sign='true'><text>365</text></item>
+<item name='$JSExpires' sign='true'><text>365</text></item>
+<item name='$FileExpires' sign='true'><text>365</text></item>
+<item name='$DefaultClientXPage' sign='true'><text>main.xsp</text></item>
+<item name='$DefaultWebPage' sign='true'><text>Color Page</text></item>
+<item name='$DefaultFrameset' sign='true'><text>MainFrameset</text></item>
+<item name='$DefaultXPage' sign='true'><text>main.xsp</text></item>
+<item name='$DBTheme' sign='true'><text>oneuiv2_1_blue.theme</text></item>
+<item name='$Flags'><text>fJ7ZF!QU</text></item>
+<item name='$LaunchXPageRunOnServer' sign='true'><text>0</text></item>
+<item name='$FlagsNoRefresh' sign='true'><text>rQU</text></item>
+<item name='$DefaultWebNavigator' sign='true'><text>Alle Dokumente</text></item>
+<item name='$LaunchWebViewName' sign='true'><text>($All)</text></item>
+<item name='$DefaultLanguage' sign='true'><text>de</text></item>
+<item name='$LANGUAGE' sign='true'><text>de</text></item>
+<item name='$LastBuildTime' sign='true'><datetime>20121123T143022,47+08</datetime></item>
+<item name='IconBitmap' summary='true' sign='true'>
+<rawitemdata type='6'>
+AiAgAgUA//+f////H////h////Af///AH///AA///gAH//wAA//8AAP/+AAB/4AAAf8AAAHPAAAB
+jwAAAw8AAAAPAAAADwAAAAcAAAADAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAD
+AAAABwAAwA8AAfAfAAP//wAH//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAAAAAAAA
+AAAAbwAAAAAAAAAAAAAAAAAAD28AAAAAAAAAAAAAAAAA/2FvAAAAAAAAAAAAAAAA/xYWH8AAAAAA
+AAAAAAAM/2Fpn2b/AAAAAAAAAAAAzxYWyZkWFvAAAAAAAAAAAMFhYWzPYWHwAAAAAAAAAAz2FhYW
+9hYWHwAAAAAADu7sYWFhaZ9hYW8AAAAAAPAADGEWFsmZFhYfAAAAAADxERxhYWHJmfFhbwAA8AAA
+8REfxhYWyZn2FhAABvAAAPERccYRYcmZ8WHwAPbwAADxER/8YRYczxYfAPYW8AAA8RERH8YRERER
+8PFhYfwAAPERcXF8xmZmbwYWiPZv8ADxER8fEfzMzMxhYoiBYW8A8REREREREREPFhYi9hYfAPER
+cXFxcXERD2Fhb2FhYfDxER8fHx8REQ8WFoj2Fhbw8REREREREREPYWKIgWFh8PERcXFxcXERDxYS
+iI8WFvDxER8fHx8REQ9hYoiPYWEA8REREREREREPFhKIjxYfAPERcXFxcR//DxFhIvFh8ADxER8f
+HxHu7gzxERERHwAA8RERERER//4AzGZmZvAAAPEREREREf/gAADMzMzAAADxERERERH+AAAAAAAA
+AAAA////////8AAAAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$BabelInfo' sign='true'><textlist><text>85255A0A0010AC8E85254BD4001E8D43</text><text
+>de-DE</text></textlist></item>
+<item name='$Daos'><text>0</text></item>
+<item name='$TITLE'><text>Diskussion - Notes &amp; Web (9)
+Discussion
+#1StdR9Discussion/de</text></item></note>
+

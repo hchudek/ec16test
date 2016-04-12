@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="5ba" sequence="16" unid="FA4438A6FF92EECD48257AB9000DF646">
+<created><datetime>20121117T103230,14+08</datetime></created>
+<modified><datetime dst="true">20131015T030034,30-04</datetime></modified>
+<revised><datetime dst="true">20131015T030034,29-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030030,92-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134712,06+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$Flags"><text>34C=Q</text></item>
+<item name="$TITLE"><text>pagerRTL.css</text></item>
+<item name="$MimeType" sign="true"><text>text/css</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+<item name="$FileNames" sign="true"><text>pagerRTL.css</text></item>
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20121117T103230,13+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>B2BDA0642BDD782B802575FA002E93E3P</text><text>de-DE</text></textlist></item>
+</note>

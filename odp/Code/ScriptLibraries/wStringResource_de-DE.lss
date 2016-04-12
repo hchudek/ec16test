@@ -1,0 +1,83 @@
+'++LotusScript Development Environment:2:5:(Options):0:74
+Option Public
+
+'++LotusScript Development Environment:2:5:(Forward):0:1
+Declare Function GetString ( StringType As Integer) As String
+
+'++LotusScript Development Environment:2:5:(Declarations):0:2
+
+'++LotusScript Development Environment:2:1:GetString:1:8
+Function GetString ( StringType As Integer) As String
+     '
+	Select Case StringType
+	Case 1  ' WebAddtopic, WebExpire
+		GetString = "Zurück zum vorherigen Dokument"
+	Case 2  ' WebAddtopic, WebExpire, WebRemoveThread
+		GetString = "Alle Dokumente"
+	Case 3  ' WebAddtopic, WebExpire, WebRemoveThread
+		GetString = "Nach Kategorie"
+	Case 4  ' WebAddtopic, WebExpire, WebRemoveThread
+		GetString = "Nach Autor"
+	Case 5  ' WebAddtopic, WebExpire, WebRemoveThread
+		GetString = "Nach alternativem Namen"
+	Case 6  ' WebAddtopic
+		GetString = "Dieses Dokument wird nicht als Thread erkannt. Wenden Sie sich an den Datenbankmanager, wenn alle Threads initialisiert werden sollen."
+	Case 7  ' WebAddtopic
+		GetString = "Dieses Thema wurde bereits in Ihr Interessenprofil aufgenommen."
+	Case 8  ' WebAddtopic
+		GetString = "wurde Ihrem Interessenprofil hinzugefügt. Sie erhalten eine Mail, wenn es neue Antworten zu dieser Diskussion gibt."
+	Case 9  ' WebArchiveSaveSettings
+		GetString = "Sie haben die Archiveinstellungen dieser Datenbank erfolgreich aktualisiert. "
+	Case 10 'WebArchiveSaveSettings
+		getString = "Fertig"		
+'	Case 11  ' WebDelete
+'		GetString = "The document has been deleted."
+	Case 12  ' WebExpire
+		GetString = " kann nicht als abgelaufen markiert werden."   ' leave the leading space..
+	Case 13  ' WebExpire
+		GetString = "Das Ablaufdatum des Dokuments wurde entfernt." 
+	Case 14  ' WebExpire
+		GetString = "Das aktuelle Dokument erhielt ein Ablaufdatum."
+	Case 15  ' WebRemoveThread
+		GetString = "Zurück zum Interessenprofil"
+	Case 16  ' WebRemoveThread
+		GetString = "Profildokument wurde nicht gefunden."
+	Case 17  ' WebRemoveThread
+		GetString = "Die angegebenen Threads wurden aus Ihrem Interessenprofil entfernt."   
+	Case 18  ' WebArchiveSubmit
+		GetString = "Während des Erstellens der Archivdatenbank ist ein Fehler aufgetreten. Die angegebene Datenbank existiert vielleicht schon oder Ihre Rechte zum Anlegen einer Datenbank sind begrenzt."
+	Case 19 'WebArchiveSubmit
+		GetString = "Sie können eine Archivdatenbank nur auf dem Domino-Server anlegen, auf dem Sie gerade via Web-Browser arbeiten. Benutzen Sie den Domino Designer-Client, um eine Datenbank auf einem anderen Server anzulegen."
+	Case 20 'WebArchiveSubmit
+		GetString = "Archivprofil wurde aktualisiert."
+	Case 21 'WebArchiveSave
+		GetString = "Sie müssen den Speicherort der Archivdatenbank angeben, bevor Sie Dokumente archivieren können."
+	Case 22   'An error that we are not specifically handling
+		GetString = Err & " - " & Error
+	Case 23 'WebEditArchiveProfile
+		GetString = "Zum Durchführen von Archivierungen ist Manager- oder Entwicklerzugriff erforderlich."
+	Case 24  'Error message in WebRemoveThread agent for empty selection
+		GetString = "Es wurden keine Threads ausgewählt, die aus dem Interessenprofil entfernt werden sollen."
+	Case 25 'Used in WebAddTopic agent
+		GetString = "Unbenannt - "
+	Case 26  'Used in WebAddTopic agent
+		GetString =  "Unbenanntes Dokument "
+'	Case 27  'used in WebDelete agent
+'		GetString = "You are not authorized to delete the document."
+	Case 28   'used for Web navigation
+		GetString =  "Nach Datum"
+	Case 29  'used for Web navigation
+		getString  = "Zielsetzung/Teammitglieder"
+	Case 30  'used for Web navigation
+		getString = "Zurück"
+'	Case 31  'used in WebDelete agent
+'		getstring = "You are not authorized to delete the document because you are not the document's original author."
+'	Case 32  'used in WebDelete agent
+'		getstring =  "You have successfully deleted the document entitled: "
+	Case 33  'used in Send Newsletters agent
+		getstring =  "Dokumente, die Sie aus folgender Datenbank angefordert haben: "
+		
+		
+	End Select
+	
+End Function

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='sharedfield' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.4'
+ replicaid='48257C05001FC752'>
+<noteinfo noteid='376' unid='32377915951F9F7E48257042002957D8' sequence='38'>
+<created><datetime>20050718T153134,64+08</datetime></created>
+<modified><datetime dst='true'>20131015T030032,10-04</datetime></modified>
+<revised><datetime dst='true'>20131015T030032,09-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20131015T030030,03-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134709,16+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name='$INFO' sign='true'>
+<rawitemdata type='1'>
+hhgBAIAAAAAAgAAAAQABAP///wAAAAAA
+</rawitemdata></item>
+<item name='$Flags'><text/></item>
+<item name='AltLang' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='$Fields'><text>AltLang</text></item>
+<item name='$TITLE'><text>AltLang</text></item>
+<item name='$BODY' summary='true' sign='true'>
+<rawitemdata type='1'>
+gQKC/1IAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJQHAAAAAAAAAAAAAAAAgwQBAIX/CAABAAAK3QYAAIr//v9QAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAACK/50AgAAABQAwAgAAAAAAAAIBAAAKcgAAAAAAAAAHAAAAAAByAAoABAABABAA
+AwB2ZXIAvwBYAQMABwAMAAUACTFTMlMAAAA+AAUAAwB2ZXIAAAAAAAAAAIBiQA4CrwAiAAwAAQAA
+AMIBrgAWAAAAAAAAAAAA8D/7AQ0BrgAEALUDAwAHABIADAAJMFIzUzRTNlMxMVNBbHRMYW5nWN4G
+AACK/4X/CAABAAAK
+</rawitemdata></item>
+<item name='$LANGUAGE' sign='true'><text>de</text></item>
+<item name='$LastBuildTime' sign='true'><datetime>20081201T151623,88+08</datetime></item>
+<item name='$BabelInfo' sign='true'><textlist><text>B12C3F2A2DD8366C85256679005C6C41</text><text
+>de-DE</text></textlist></item></note>
+

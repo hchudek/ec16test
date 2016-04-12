@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="406" sequence="37" unid="BEFD58676298FFDE8825771C000440DC">
+<created><datetime dst="true">20100506T174627,48-07</datetime></created>
+<modified><datetime dst="true">20131015T030032,86-04</datetime></modified>
+<revised><datetime dst="true">20131015T030032,85-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030030,25-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134709,88+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+<item name="$FileModDT" sign="true"><datetime>20011208T065352,00-05</datetime></item>
+<item name="$ImageNames" sign="true"><text>Calendar - spacer.gif</text></item>
+<item name="$PublicAccess" sign="true"><text>1</text></item>
+<item name="$EditFilePath" sign="true"><text>C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\notes7FA095\~Calendar%20-%20spacer.gif</text></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+<item name="$TITLE" sign="true"><text>Calendar - Spacer One</text></item>
+
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20121117T103228,96+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>8EBB77ED77918CBD80257694003BD61F</text><text>de-DE</text></textlist></item></note>

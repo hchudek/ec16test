@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="4ea" sequence="16" unid="75C227F73863D3C048257AB70034FFAB">
+<created><datetime>20121115T173853,23+08</datetime></created>
+<modified><datetime dst="true">20131015T030034,00-04</datetime></modified>
+<revised><datetime dst="true">20131015T030033,99-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030030,76-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134711,02+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$TITLE" sign="true"><text>oneuiv2_1_gold.theme</text></item>
+<item name="$Flags"><text>34567Cg~`</text></item>
+<item name="$$ScriptName" sign="true" summary="false"><text>blue.theme</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+<item name="$FileNames" sign="true"><text>oneuiv2_1_gold.theme</text></item>
+<item name="$CSSFiles" sign="true"><textlist><text>blue.css</text><text>blue_ie06.css</text><text>blue_ie78.css</text><text>commonRTL.css</text><text>pagerRTL.css</text><text>oneuiv2_1.css</text></textlist></item>
+
+<item name="$LastBuildTime" sign="true"><datetime>20121115T173853,23+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>FD5D7E1D42CC938D802579350077A500</text><text>de-DE</text></textlist></item>
+</note>

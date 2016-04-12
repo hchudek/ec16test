@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="866" sequence="5" unid="3C2D8C1EA1321E9A48257BC2003A5035">
+<created><datetime>20130809T183656,21+08</datetime></created>
+<modified><datetime dst="true">20131015T030038,10-04</datetime></modified>
+<revised><datetime dst="true">20131015T030038,09-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030031,92-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134715,48+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$TITLE"><text>byMostRecentView_ko.properties</text></item>
+<item name="$Flags"><text>gC~4;2</text></item>
+<item name="$FileNames" sign="true"><text>byMostRecentView_ko.properties</text></item>
+
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20130809T183655,98+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>491FFC178EFD807F80257BB0003410D6</text><text>de-DE</text></textlist></item>
+</note>

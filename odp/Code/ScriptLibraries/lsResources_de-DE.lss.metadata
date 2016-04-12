@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="filter" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="122" sequence="81" unid="2C7AE955C137D548482575120027F14D">
+<created><datetime>20081201T151616,77+08</datetime></created>
+<modified><datetime dst="true">20131015T030029,28-04</datetime></modified>
+<revised><datetime dst="true">20131015T030029,27-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030029,26-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134706,60+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$POID"><datetime>20051212T132214,46-05</datetime></item>
+<item name="$Flags"><text>s34Q</text></item>
+<item name="$PublicAccess" sign="true"><text>1</text></item>
+<item name="$TITLE"><text>lsResources_de-DE</text></item>
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20121117T103225,24+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>C3AAF4FFCFC7810B8525745900140A0C</text><text>de-DE</text></textlist></item>
+
+</note>

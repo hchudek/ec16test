@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.4'
+ replicaid='48257C05001FC752'>
+<noteinfo noteid='132' unid='891A0AE76CE736B3482575120027F2B5' sequence='53'>
+<created><datetime>20081201T151620,37+08</datetime></created>
+<modified><datetime dst='true'>20131015T030029,36-04</datetime></modified>
+<revised><datetime dst='true'>20131015T030029,35-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20131015T030029,28-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134706,68+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name='$FORMULACLASS' sign='true'><text>1</text></item>
+<item name='$Index' sign='true'><text/></item>
+<item name='$COLLATION' summary='true'>
+<rawitemdata type='2'>
+BgAAAABE
+</rawitemdata></item>
+<item name='$Flags'><text>Y</text></item>
+<item name='$WebFlags' sign='true'><text>YS</text></item>
+<item name='$DesignerVersion' sign='true'><text>7</text></item>
+<item name='$TITLE' sign='true'><text>($xpConfigProfile)|xpConfigProfile</text></item>
+<item name='$FORMULA' summary='true' sign='true'><formula compiled='true'>
+tAAFADoANgAEAA4ACQAKAAkAQXR0YWNobWVudE5hbWVJbWFnZVRleHRGb290ZXJUZXh0JENvbmZs
+aWN0AgAgAAkASW1hZ2VUZXh0AAUACQBJbWFnZVRleHQAAwACACAACgBGb290ZXJUZXh0BQAKAEZv
+b3RlclRleHQDAAQABAAAACYABQAEAGZvcm0BAA8AeHBDb25maWdQcm9maWxlAAoCBAADAAcADgAI
+AAlMMVMzUzRT
+</formula></item>
+<item name='$VIEWFORMAT' summary='true' sign='true'>
+<rawitemdata type='5'>
+AQADADQAjgwAAFZDAAAOAA4AAAAAAHgAAQAACQAAAAAAAAAAAAICAAAAVkMAAAkACQAiAAAAeAAB
+AAAKAAAAAAAAAAAAAgIAAABWQwAACgAKACIAAADwAAEAAAoAAAAAAAAAAAACAgAAAEF0dGFjaG1l
+bnROYW1lQXR0YWNobWVudE5hbWVJbWFnZVRleHRJbWFnZVRleHQiAAIAIAAJAEltYWdlVGV4dAAF
+AAkASW1hZ2VUZXh0AAMARm9vdGVyVGV4dEZvb3RlclRleHQiAAIAIAAKAEZvb3RlclRleHQFAAoA
+Rm9vdGVyVGV4dAMAJgABAAAAAQEACQEACAoBAQQKAAA/AK0rAgABAAEAAAAAAAAAAABXQwEAAAkA
+AAAAAAAAAAAAAAAAAAAAAQAEAAAAAAD//wAAAAAAAAAAAAAAAAAAV0MBAAAJAAAAAAAAAAAAAAAA
+AAAAAAAABAAAAAAA//8AAAAAAAAAAAAAAAAAAFdDAQAACQAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA
+AP//AAAAAAAAAAAAAAAAAABCAAAAAAABAP///wABAO/v7wABAAAAAAAAAAAAAAABAAEA////AAEA
+tNXFAAAAAQCAAAAAAQAAAP8AAQAAAAAAAAAIAAAAAAABAA==
+</rawitemdata></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$V5ACTIONS' sign='true'>
+<rawitemdata type='1'>
+vRwPAAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAHn/bAABAMDAwAABAAAAAAABAAAAAAABAMDAwAAA
+AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAUA////AAAAAAAAAAAAAAA=
+</rawitemdata></item>
+<item name='$LANGUAGE' sign='true'><text>de</text></item>
+<item name='$LastBuildTime' sign='true'><datetime>20081201T151620,41+08</datetime></item>
+<item name='$BabelInfo' sign='true'><textlist><text>55ABB9DA3E0308808525745F0018A2A7</text><text
+>de-DE</text></textlist></item></note>
+

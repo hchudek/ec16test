@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.4'
+ replicaid='48257C05001FC752'>
+<noteinfo noteid='266' unid='8997FFD4FE68FD794825704200295528' sequence='40'>
+<created><datetime>20050718T153127,76+08</datetime></created>
+<modified><datetime dst='true'>20131015T030030,86-04</datetime></modified>
+<revised><datetime dst='true'>20131015T030030,85-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20131015T030029,61-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134708,18+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name='$INFO' sign='true'>
+<rawitemdata type='1'>
+hhgBAIAAAAAAgAAAAQABAP///wAKAAAA
+</rawitemdata></item>
+<item name='$DesignerVersion' sign='true'><text>6</text></item>
+<item name='$Flags'><text>C34WQ</text></item>
+<item name='$TITLE'><textlist><text>White Page</text><text>White Page</text></textlist></item>
+<item name='$LANGUAGE' sign='true'><text>de</text></item>
+<item name='$LastBuildTime' sign='true'><datetime>20081201T151617,51+08</datetime></item>
+<item name='$BabelInfo' sign='true'><textlist><text>33A6C4145F76DC09882569ED000C7F96</text><text
+>de-DE</text></textlist></item>
+<item name='$$ScriptName' summary='false' sign='true'><text>White Page</text></item>
+<item name='$BODY' sign='true'>
+<rawitemdata type='1'>
+gQKC/1IAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJQHAAAAAAAAAAAAAAAAgwQBAIX/CAABAAAK
+</rawitemdata></item></note>
+

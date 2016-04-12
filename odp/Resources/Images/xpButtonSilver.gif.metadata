@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="48257C05001FC752" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="172" sequence="52" unid="35BCF8F9BC5946DC482575120027F3B6">
+<created><datetime>20081201T151622,94+08</datetime></created>
+<modified><datetime dst="true">20131015T030029,64-04</datetime></modified>
+<revised><datetime dst="true">20131015T030029,63-04</datetime></revised>
+<lastaccessed><datetime dst="true">20131015T030029,34-04</datetime></lastaccessed>
+<addedtofile><datetime>20131015T134706,96+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+<item name="$FileModDT" sign="true"><datetime>20080310T152601,00+00</datetime></item>
+<item name="$ImageNames" sign="true"><text>xpButtonSilver.gif</text></item>
+<item name="$EditFilePath" sign="true"><text>C:\DOCUME~1\ieu68609\LOCALS~1\Temp\notesFCBCEE\~xpButtonSilver.gif</text></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+<item name="$TITLE"><text>xpButtonSilver.gif</text></item>
+
+<item name="$LANGUAGE" sign="true"><text>de</text></item>
+<item name="$LastBuildTime" sign="true"><datetime>20121117T103227,48+08</datetime></item>
+<item name="$BabelInfo" sign="true"><textlist><text>CE5E5B1867B0410A85257487001E0375</text><text>de-DE</text></textlist></item></note>
