@@ -1,18 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
- maintenanceversion='1.4' replicaid='48257C05001FC752'>
-<noteinfo noteid='3b2' unid='A01DCCA9D4E41E6C48257042002954CA' sequence='114'>
-<created><datetime>20050718T153126,82+08</datetime></created>
-<modified><datetime dst='true'>20131015T030029,18-04</datetime></modified>
-<revised><datetime dst='true'>20131015T030029,17-04</datetime></revised>
-<lastaccessed><datetime dst='true'>20131015T030029,17-04</datetime></lastaccessed>
-<addedtofile><datetime>20131015T134709,46+08</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
-<revisions><datetime dst='true'>20120918T121601,34-04</datetime><datetime
- dst='true'>20120918T121601,38-04</datetime><datetime dst='true'>20120918T121601,40-04</datetime><datetime
- dst='true'>20121027T103900,89-04</datetime><datetime dst='true'>20121027T103900,93-04</datetime><datetime
- dst='true'>20121027T103900,95-04</datetime><datetime dst='true'>20121027T104034,68-04</datetime><datetime
->20121031T115851,26+00</datetime><datetime>20121031T120046,06+00</datetime></revisions>
+ maintenanceversion='1.7' replicaid='C12580F10044DFE1'>
+<noteinfo noteid='11a' unid='AD0664A4731190FCC12580F10044DFE3' sequence='9'>
+<created><datetime dst='true'>20170328T143217,63+02</datetime></created>
+<modified><datetime dst='true'>20170328T145906,24+02</datetime></modified>
+<revised><datetime dst='true'>20170328T145906,23+02</datetime></revised>
+<lastaccessed><datetime dst='true'>20170328T145906,24+02</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20170328T143217,66+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Holger Chudek/O=PerfectChain/C=DE</name></updatedby>
 <item name='$TemplateModTime' sign='true'><datetime dst='true'>19980909T102333,41-04</datetime></item>
 <item name='$TemplateServerName' sign='true'><text>CN=Debbie Branco/O=Iris</text></item>
 <item name='$TemplateFileName' sign='true'><text>d:\data\discsw50.ntf</text></item>
@@ -23,15 +18,9 @@
 <item name='$FileExpires' sign='true'><text>365</text></item>
 <item name='$DefaultClientXPage' sign='true'><text>main.xsp</text></item>
 <item name='$DefaultWebPage' sign='true'><text>Color Page</text></item>
-<item name='$DefaultFrameset' sign='true'><text>MainFrameset</text></item>
-<item name='$DefaultXPage' sign='true'><text>main.xsp</text></item>
 <item name='$DBTheme' sign='true'><text>oneuiv2_1_blue.theme</text></item>
-<item name='$Flags'><text>fJ7ZF!QU</text></item>
-<item name='$LaunchXPageRunOnServer' sign='true'><text>0</text></item>
-<item name='$FlagsNoRefresh' sign='true'><text>rQU</text></item>
 <item name='$DefaultWebNavigator' sign='true'><text>Alle Dokumente</text></item>
 <item name='$LaunchWebViewName' sign='true'><text>($All)</text></item>
-<item name='$DefaultLanguage' sign='true'><text>de</text></item>
 <item name='$LANGUAGE' sign='true'><text>de</text></item>
 <item name='$LastBuildTime' sign='true'><datetime>20121123T143022,47+08</datetime></item>
 <item name='IconBitmap' summary='true' sign='true'>
@@ -52,7 +41,13 @@ AAAA////////8AAAAAAAAAAAAA==
 <item name='$BabelInfo' sign='true'><textlist><text>85255A0A0010AC8E85254BD4001E8D43</text><text
 >de-DE</text></textlist></item>
 <item name='$Daos'><text>0</text></item>
+<item name='$DefaultFrameset'><text>MainFrameset</text></item>
+<item name='$DefaultXPage'><text>main.xsp</text></item>
+<item name='$DefaultLanguage'><text>de</text></item>
 <item name='$TITLE'><text>Diskussion - Notes &amp; Web (9)
 Discussion
-#1StdR9Discussion/de</text></item></note>
+#1StdR9Discussion/de</text></item>
+<item name='$Flags'><text>fJ7ZF!QU</text></item>
+<item name='$LaunchXPageRunOnServer'><text>0</text></item>
+<item name='$FlagsNoRefresh'><text>rQU</text></item></note>
 
